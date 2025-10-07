@@ -1,1 +1,1 @@
-Projeto incial de uma rádio online. Em andamento.
+Projeto inicial de uma rádio online. Em andamento.
